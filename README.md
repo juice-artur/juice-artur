@@ -16,8 +16,3 @@ Here I explore the world of graphics APIs such as Vulkan and OpenGL
 ![Vulkan](https://img.shields.io/static/v1?style=for-the-badge&message=Vulkan&color=AC162C&logo=Vulkan&logoColor=FFFFFF&label=)
 ![Unreal Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juice-artur&count_private=true&show_icons=true)
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juice-artur&repo=JuicyEngine)](https://github.com/juice-artur/JuicyEngine)
